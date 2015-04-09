@@ -14,3 +14,9 @@ html5j鹿児島の公式サイト公開用リポジトリです。
 * git push
 
 でサイトを公開することが可能です
+
+正式なurlは
+
+https://kagoshima.html5j.org/
+
+です。
