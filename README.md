@@ -17,6 +17,6 @@ html5j鹿児島の公式サイト公開用リポジトリです。
 
 正式なurlは
 
-https://kagoshima.html5j.org/
+http://kagoshima.html5j.org/
 
 です。
